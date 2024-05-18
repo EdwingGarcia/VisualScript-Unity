@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\TANKEZITOCONDISFUNCION\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{690CA540-8955-BFDE-5F4D-CD93EE3D9A9C}|Assembly-CSharp.csproj|C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\TANKEZITOCONDISFUNCION\\assets\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690CA540-8955-BFDE-5F4D-CD93EE3D9A9C}|Assembly-CSharp.csproj|solutionrelative:assets\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690CA540-8955-BFDE-5F4D-CD93EE3D9A9C}|Assembly-CSharp.csproj|c:\\users\\nicko\\desktop\\6to\\videojuegos\\tankezitocondisfuncion\\assets\\tankesitomufmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690CA540-8955-BFDE-5F4D-CD93EE3D9A9C}|Assembly-CSharp.csproj|solutionrelative:assets\\tankesitomufmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\TANKEZITOCONDISFUNCION\\Library\\PackageCache\\com.unity.visualscripting@1.9.2\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\StaticActionInvoker_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.visualscripting@1.9.2\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\StaticActionInvoker_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaticActionInvoker_1.cs",
+              "DocumentMoniker": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\TANKEZITOCONDISFUNCION\\Library\\PackageCache\\com.unity.visualscripting@1.9.2\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\StaticActionInvoker_1.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.visualscripting@1.9.2\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\StaticActionInvoker_1.cs",
+              "ToolTip": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\TANKEZITOCONDISFUNCION\\Library\\PackageCache\\com.unity.visualscripting@1.9.2\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\StaticActionInvoker_1.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.visualscripting@1.9.2\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\StaticActionInvoker_1.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAiwEMAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:15:29.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\TANKEZITOCONDISFUNCION\\Assets\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\NewBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\TANKEZITOCONDISFUNCION\\Assets\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\NewBehaviourScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:14:05.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TankesitoMufmen.cs",
+              "DocumentMoniker": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\TANKEZITOCONDISFUNCION\\Assets\\TankesitoMufmen.cs",
+              "RelativeDocumentMoniker": "Assets\\TankesitoMufmen.cs",
+              "ToolTip": "C:\\Users\\nicko\\Desktop\\6to\\Videojuegos\\TANKEZITOCONDISFUNCION\\Assets\\TankesitoMufmen.cs",
+              "RelativeToolTip": "Assets\\TankesitoMufmen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:37:32.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
